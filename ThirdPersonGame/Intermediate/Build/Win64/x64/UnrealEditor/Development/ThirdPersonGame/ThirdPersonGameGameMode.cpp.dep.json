@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\source\\thirdpersongame\\thirdpersongamegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\intermediate\\build\\win64\\x64\\thirdpersongameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdpersongame\\definitions.thirdpersongame.h",
+            "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\source\\thirdpersongame\\thirdpersongamegamemode.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdpersongame\\uht\\thirdpersongamegamemode.generated.h",
+            "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\source\\thirdpersongame\\thirdpersongamecharacter.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdpersongame\\uht\\thirdpersongamecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

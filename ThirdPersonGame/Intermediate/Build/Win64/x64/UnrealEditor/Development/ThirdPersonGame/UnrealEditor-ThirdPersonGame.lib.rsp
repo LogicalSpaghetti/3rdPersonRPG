@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ThirdPersonGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\3rdPersonRPG\ThirdPersonGame\Intermediate\Build\Win64\x64\ThirdPersonGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\Unreal Projects\3rdPersonRPG\ThirdPersonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPersonGame\ThirdPersonGame.init.gen.cpp.obj"
+"E:\Unreal Projects\3rdPersonRPG\ThirdPersonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPersonGame\ThirdPersonGameCharacter.gen.cpp.obj"
+"E:\Unreal Projects\3rdPersonRPG\ThirdPersonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPersonGame\ThirdPersonGameGameMode.gen.cpp.obj"
+"E:\Unreal Projects\3rdPersonRPG\ThirdPersonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPersonGame\ThirdPersonGame.cpp.obj"
+"E:\Unreal Projects\3rdPersonRPG\ThirdPersonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPersonGame\ThirdPersonGameCharacter.cpp.obj"
+"E:\Unreal Projects\3rdPersonRPG\ThirdPersonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPersonGame\ThirdPersonGameGameMode.cpp.obj"
+"E:\Unreal Projects\3rdPersonRPG\ThirdPersonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPersonGame\Default.rc2.res"
+/OUT:"E:\Unreal Projects\3rdPersonRPG\ThirdPersonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\ThirdPersonGame\UnrealEditor-ThirdPersonGame.lib"

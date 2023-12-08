@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\intermediate\\build\\win64\\unrealeditor\\inc\\thirdpersongame\\uht\\thirdpersongame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\intermediate\\build\\win64\\x64\\thirdpersongameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\3rdpersonrpg\\thirdpersongame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thirdpersongame\\definitions.thirdpersongame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
